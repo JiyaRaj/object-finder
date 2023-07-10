@@ -1,0 +1,40 @@
+body{
+    background-color: orchid;
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    margin-top: 0px;
+    padding: 6px;
+}
+#start{
+    font-size: 16px;
+}
+label{
+    width: 250px;
+    margin-top: 10px;
+    border-radius: 10px;
+    padding: 2px;
+}
+#status{
+    margin-right: 70px;
+    background-color: indianred;
+}
+#objects{
+    margin-left: 70px;
+    background-color: khaki;
+}
+#footer{
+    background-color: lightskyblue;
+    text-align: center;
+    font-size: 19px;
+    padding:4px;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
+canvas{
+    border: double darkgoldenrod 5px;
+    margin-top: 50px;
+    box-shadow: 3px 3px 20px floralwhite;
+}
